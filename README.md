@@ -1,12 +1,23 @@
-# React + Vite
+Go to - https://saisandeep2812.github.io/E-commerce-Website/ and select on any category
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Preview of the site
 
-Currently, two official plugins are available:
+<img width="1889" height="874" alt="Screenshot 2025-09-17 133010" src="https://github.com/user-attachments/assets/8eb6f7e0-4d47-4216-a37d-c14f1dfa2486" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img width="1894" height="874" alt="Screenshot 2025-09-17 133041" src="https://github.com/user-attachments/assets/9cd46da3-ef40-4cca-bcb0-8d9490ad9eaf" />
 
-## Expanding the ESLint configuration
+<img width="1897" height="867" alt="Screenshot 2025-09-17 133048" src="https://github.com/user-attachments/assets/a8774db8-ad58-4e91-bbf1-1e765863f6c3" />
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="1857" height="773" alt="Screenshot 2025-09-17 133055" src="https://github.com/user-attachments/assets/3be50bcd-e034-4025-807f-8e21be3fa65b" />
+
+<img width="1897" height="865" alt="Screenshot 2025-09-17 133103" src="https://github.com/user-attachments/assets/80db1882-6571-4ae9-80e8-a23d7aaa9dc6" />
+
+<img width="1883" height="872" alt="Screenshot 2025-09-17 133117" src="https://github.com/user-attachments/assets/26829efc-e79b-47c8-a84a-53db4c495d78" />
+
+<img width="1892" height="874" alt="Screenshot 2025-09-17 133126" src="https://github.com/user-attachments/assets/40cb663c-6af9-4dd6-bd3b-dc32d48637ce" />
+
+<img width="1893" height="876" alt="Screenshot 2025-09-17 133139" src="https://github.com/user-attachments/assets/154e8cf0-ce96-4dc2-974a-318b31be8b88" />
+
+<img width="1890" height="873" alt="Screenshot 2025-09-17 133153" src="https://github.com/user-attachments/assets/d0f53446-eff0-4124-9cdb-f50759699fa5" />
+
+<img width="1892" height="865" alt="Screenshot 2025-09-17 133207" src="https://github.com/user-attachments/assets/76944aed-6132-4137-be08-f21c3bd7a06d" />
